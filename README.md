@@ -14,5 +14,5 @@ This project is a music player web app that allows users to browse and play a cu
 
 ## Contact <br>
 For any questions or feedback, you can reach me at: <br>
-Email:** msoni6620@gmail.com ** <br>
-LinkedIn: ** https://www.linkedin.com/in/mayanksoni-/ **
+Email: msoni6620@gmail.com  <br>
+LinkedIn: https://www.linkedin.com/in/mayanksoni-/ 
